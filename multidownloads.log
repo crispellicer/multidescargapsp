@@ -1,0 +1,68 @@
+15:31:41.326 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+15:31:55.746 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg started
+15:31:57.387 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg has finished
+15:48:39.782 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg created
+15:48:55.320 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg started
+15:48:56.284 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg has finished
+15:56:01.867 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg created
+15:57:00.631 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg started
+15:57:02.188 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg has finished
+16:15:22.797 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg created
+16:15:32.558 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg started
+16:15:33.517 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg has finished
+16:15:50.342 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download  created
+16:17:29.115 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2014/04/14/20/11/pink-324175_1280.jpg created
+17:28:28.395 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+17:33:45.200 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download  created
+17:33:55.509 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+17:36:29.655 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+17:45:25.067 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+17:46:44.454 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+18:13:47.581 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+18:19:04.476 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+18:29:56.301 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+18:43:50.630 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+18:44:37.559 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+18:48:54.383 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+19:21:06.863 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download  created
+19:22:25.527 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download  created
+12:21:43.802 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+12:23:31.130 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+12:30:29.559 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+13:38:49.744 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 created
+13:38:59.321 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 started
+13:39:23.891 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4 cancelled
+13:42:35.490 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+13:42:54.385 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+13:43:14.560 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelled
+14:03:53.308 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+14:04:03.490 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+14:05:06.853 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+14:05:11.753 [Thread-4] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg started
+14:07:15.934 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://images.unsplash.com/photo-1600272008408-6e05d5aa3e7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Z2F0b3xlbnwwfHwwfHw%3D&w=1000&q=80 created
+14:07:55.909 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg created
+14:08:06.484 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg started
+14:08:07.345 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg has finished
+14:08:36.789 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+14:08:47.612 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+14:09:15.189 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 has finished
+14:24:48.099 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+14:24:55.183 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+14:25:27.355 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 has finished
+15:00:49.238 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+15:00:55.686 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+18:09:47.351 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+18:50:39.655 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+18:51:49.200 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+18:53:02.340 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+18:54:48.682 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+18:55:21.560 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+18:57:14.184 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+18:57:26.544 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+18:57:28.796 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 cancelled
+18:58:36.004 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+19:06:49.160 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+19:07:54.987 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+19:09:53.011 [JavaFX Application Thread] INFO  com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 created
+19:10:24.100 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 started
+19:10:51.854 [Thread-3] TRACE com.svalero.multidescargapsp.DownloadController - Download http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4 has finished
