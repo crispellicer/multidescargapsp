@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+
+
+<Label id="lbRegister" fx:id="lbRegister" alignment="TOP_LEFT" prefHeight="375.0" prefWidth="427.0" wrapText="true" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" />
