@@ -36,6 +36,7 @@
       <HBox alignment="CENTER" prefHeight="65.0" prefWidth="503.0" spacing="60.0" BorderPane.alignment="CENTER">
          <children>
             <Button fx:id="btStopAllDownloads" mnemonicParsing="false" onAction="#stopAllDownloads" text="Stop all downloads" />
+            <Button fx:id="btReadDLC" mnemonicParsing="false" onAction="#readDLC" text="Read DLC" />
             <Button id="btRegister" fx:id="btRegister" mnemonicParsing="false" onAction="#register" text="Register" />
          </children>
       </HBox>

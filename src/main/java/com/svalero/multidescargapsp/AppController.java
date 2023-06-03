@@ -7,19 +7,20 @@ import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;
 import javafx.scene.control.*;
 import javafx.scene.layout.BorderPane;
+import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
+import java.nio.file.Files;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 public class AppController {
 
     public TextField tfUrl;
     public TextField tfRoute;
+    public String routeText;
 
     public Button btDownload;
     public TabPane tpDownloads;
@@ -34,7 +35,7 @@ public class AppController {
     @FXML
     public void download(ActionEvent event) {
         String urlText = tfUrl.getText();
-        String routeText = tfRoute.getText();
+        routeText = tfRoute.getText();
         tfUrl.clear();
         tfUrl.requestFocus();
         download(urlText, routeText);
@@ -65,6 +66,25 @@ public class AppController {
         }
         tpDownloads.getTabs().clear();
     }
+
+    public void readDLC() {
+        Alert alert = new Alert(Alert.AlertType.CONFIRMATION);
+        alert.setContentText("Do you want to read DLC?");
+        alert.showAndWait();
+        ButtonType result = alert.getResult();
+        routeText = tfRoute.getText();
+        if (result == ButtonType.OK) {
+            FileChooser fileChooser = new FileChooser();
+            File file = fileChooser.showOpenDialog(null);
+            try {
+                List<String> urls = Files.readAllLines(file.toPath());
+                urls.forEach(urlText -> AppController.this.download(urlText, routeText));
+            } catch (IOException ioe) {
+                ioe.printStackTrace();
+            }
+       }
+    }
+
     public String readDownloadLog() {
         String text = "";
         try {

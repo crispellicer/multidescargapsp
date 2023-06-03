@@ -1,6 +1,5 @@
 package com.svalero.multidescargapsp;
 
-import com.sun.glass.ui.CommonDialogs;
 import javafx.concurrent.Worker;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
